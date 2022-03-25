@@ -16,7 +16,7 @@
     "cowsay": "^1.4.0",
     "firebase-admin": "^9.0.0",
     "firebase-functions": "^3.8.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "devDependencies": {
     "eslint": "^7.5.0",
